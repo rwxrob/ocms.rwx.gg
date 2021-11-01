@@ -1,3 +1,3 @@
-# OCMS Badges from rwx.gg
+# OCMS Credentials from rwx.gg
 
 
